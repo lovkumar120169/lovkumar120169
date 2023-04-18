@@ -89,9 +89,9 @@
  
  <br>
  <br>
-<div align="center" >
-<a   href="https://github.com/lovkumar120169/github-profile-trophy">
-  <img width=800 align="center" src="https://github-profile-trophy.vercel.app/?username=lovkumar120169&column=8&theme=gruvbox&no-frame=true"/>
+<div align="right" >
+<a href="https://github.com/lovkumar120169/github-profile-trophy">
+  <img width=850 src="https://github-profile-trophy.vercel.app/?username=lovkumar120169&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 </div>
 
