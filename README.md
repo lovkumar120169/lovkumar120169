@@ -29,9 +29,8 @@
 
 <h1 align="center">Welcome to My Profile 👋</h1>
 <div align="center">
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=lovkumar120169&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=435&lines=Full-Stack+Web+developer....;Front-end+Developer....;MERN+Stack+Developer....;Always+curious+to+learn+new+things+!" alt="Typing SVG" /></a>
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 </div>
 
 <!-- ### -->
@@ -90,11 +89,9 @@
  
  <br>
  <br>
-<div align="right" >
-<a href="https://github.com/lovkumar120169/github-profile-trophy">
-  <img width=850 src="https://github-profile-trophy.vercel.app/?username=lovkumar120169&column=8&theme=gruvbox&no-frame=true"/>
-</a>
-</div>
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=lovkumar120169&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 
 <br>
 
