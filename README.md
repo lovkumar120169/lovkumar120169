@@ -61,6 +61,8 @@
 
 
 <h3 align="left">🛠 Languages and tools</h3>
+<br>
+<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
@@ -79,10 +81,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
 </div>
+<br>
+
+<br>
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+ <a href="https://github.com/lovkumar120169/github-profile-trophy"><h3>🏆 Github Profile Trophy</h3></a>
+ 
+ <br>
+ <br>
+<div align="right" >
+<a   href="https://github.com/lovkumar120169/github-profile-trophy">
+  <img width=800 align="center" src="https://github-profile-trophy.vercel.app/?username=lovkumar120169&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+</div>
+
+<br>
 
 ###
-
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 <h3 align="left">🔥   My Stats </h3>
+<br>
+
 
 ###
 <br>
@@ -103,6 +122,9 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/lovkumar120169/count.svg?"  />
 </div>
+
+
+
 
 ###
 <div align="center">
