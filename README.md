@@ -37,7 +37,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
+### 
 <div>
 <h2 align="left">My name is Lov Kumar😎. I am from Bokaro, Jharkhand.
   </h2>
@@ -55,11 +55,11 @@
  ⚡ How to reach me <a href="lovkumar120169@gmail.com">lovkumar120169@gmail.com</a>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 </div>
-###
 
 
 
-###
+
+
 <h3 align="left">🛠 Languages and tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
