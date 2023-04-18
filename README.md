@@ -29,8 +29,9 @@
 
 <h1 align="center">Welcome to My Profile 👋</h1>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=435&lines=Full-Stack+Web+developer....;MERN+stack+developer;Front-end+Developer;Always+curious+to+learn+new+things+!" alt="Typing SVG" /></a>
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=lovkumar120169&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 </div>
 
 <!-- ### -->
