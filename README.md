@@ -29,7 +29,7 @@
 
 <h1 align="center">Welcome to My Profile 👋</h1>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=435&lines=I+am+Lov+Kumar....;A+Full-Stack+Web+developer....;MERN+stack+developer;Who+Love's+to+code....;Always+curious+to+learn+new+things+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=435&lines=Full-Stack+Web+developer....;MERN+stack+developer;Front-end+Developer;Always+curious+to+learn+new+things+!" alt="Typing SVG" /></a>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 </div>
 
@@ -39,7 +39,7 @@
 
 ###
 <div>
-<h2 align="left">I am 💪Lov Kumar from Bokaro, Jharkhand.
+<h2 align="left">My name is Lov Kumar😎. I am from Bokaro, Jharkhand.
   </h2>
  
   <br>
