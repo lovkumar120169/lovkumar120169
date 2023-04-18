@@ -89,7 +89,7 @@
  
  <br>
  <br>
-<p align="right">
+<p align="center">
   <img width=800 alig src="https://github-profile-trophy.vercel.app/?username=lovkumar120169&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
