@@ -88,6 +88,9 @@
  <a href="https://github.com/lovkumar120169/github-profile-trophy"><h3>🏆 Github Profile Trophy</h3></a>
  
  <br>
+ <p align="center">
+  <img width=800 alig src="https://github-profile-trophy.vercel.app/?username=lovkumar120169&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
  <br>
 
 
@@ -119,9 +122,7 @@
   <img src="https://profile-counter.glitch.me/lovkumar120169/count.svg?"  />
 </div>
 
-<p align="center">
-  <img width=800 alig src="https://github-profile-trophy.vercel.app/?username=lovkumar120169&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
+
 
 
 ###
