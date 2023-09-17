@@ -44,14 +44,14 @@
  
   <br>
   
-🔭 I’m currently preparing for placements!. <br><br>
- 🌱 I’m currently learning MERN Stack.<br><br>
+🔭 I’m currently preparing for placements <br><br>
+ 🌱 I’m a MERN Stack Developer<br><br>
  <!-- 👯 I’m looking to collaborate on ...<br><br> -->
- 🤔 Check Out my <a href="https://drive.google.com/file/d/1soNSceqa5gnkxwAWmleWdWnVDHpkBwd0/view?usp=sharing">Resume</a><br><br>
+ 🤔 Check Out my <a href="https://drive.google.com/file/d/1OqeNBTHvnvDQjJEHUQV5S3uq88yH5COM/view?usp=sharing">Resume</a><br><br>
  📫  Know more about me <a href="https://lovkumar120169.github.io/">Portfolio</a><br><br>
  😄 All of my projects are available at
 <a href="https://github.com/lovkumar120169">My Github Repositories</a><br><br>
- 💬 Ask me about HTML, CSS, JavaScript, React, Chakra-Ui, Redux, Node.js<br><br>
+ 💬 Ask me about HTML, CSS, JavaScript, React, Chakra-Ui, Redux, NodeJs<br><br>
  ⚡ How to reach me <a href="lovkumar120169@gmail.com">lovkumar120169@gmail.com</a>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 </div>
@@ -89,7 +89,7 @@
  
  <br>
  <p align="center">
-  <img width=800 alig src="https://github-profile-trophy.vercel.app/?username=lovkumar120169&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img width=800 align src="https://github-profile-trophy.vercel.app/?username=lovkumar120169&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
  <br>
 
