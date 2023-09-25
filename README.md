@@ -82,14 +82,7 @@
 <br>
 
 <br>
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
- <a href="https://github.com/lovkumar120169/github-profile-trophy"><h3>🏆 Github Profile Trophy</h3></a>
- 
- <br>
- <p align="center">
-  <img width=800 align src="https://github-profile-trophy.vercel.app/?username=lovkumar120169&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
- <br>
+
 
 
 <br>
