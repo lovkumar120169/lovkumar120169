@@ -30,7 +30,6 @@
 <h1 align="center">Welcome to My Profile 👋</h1>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=435&lines=Full-Stack+Web+developer....;Front-end+Developer....;MERN+Stack+Developer....;Always+curious+to+learn+new+things+!" alt="Typing SVG" /></a>
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 </div>
 
 <!-- ### -->
@@ -53,7 +52,6 @@
 <a href="https://github.com/lovkumar120169">My Github Repositories</a><br><br>
  💬 Ask me about HTML, CSS, JavaScript, React, Chakra-Ui, Redux, NodeJs<br><br>
  ⚡ How to reach me <a href="lovkumar120169@gmail.com">lovkumar120169@gmail.com</a>
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 </div>
 
 
