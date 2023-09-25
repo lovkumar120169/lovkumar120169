@@ -88,7 +88,6 @@
 <br>
 
 ###
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 <h3 align="left">🔥   My Stats </h3>
 <br>
 
