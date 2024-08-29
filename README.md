@@ -46,7 +46,7 @@
 🔭 I’m currently preparing for placements <br><br>
  🌱 I’m a MERN Stack Developer<br><br>
  <!-- 👯 I’m looking to collaborate on ...<br><br> -->
- 🤔 Check Out my <a href="https://drive.google.com/file/d/1VsFJTUVCwRQ-gsaNg8jxtsT-HP-2p2kt/view?usp=sharing">Resume</a><br><br>
+ 🤔 Check Out my <a href="https://drive.google.com/file/d/1uUDTpKnC9cHXUQIcxgSMhiDPDqBO0Me7/view?usp=sharing">Resume</a><br><br>
  📫  Know more about me <a href="https://lovkumar120169.github.io/">Portfolio</a><br><br>
  😄 All of my projects are available at
 <a href="https://github.com/lovkumar120169">My Github Repositories</a><br><br>
