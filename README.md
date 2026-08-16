@@ -1,135 +1,216 @@
-<!-- ### Hi there 👋 -->
-
 <div align="center">
-  <img width="500" alt="about" src="https://user-images.githubusercontent.com/119415006/232788353-c644eb55-f41d-4e30-ad97-4a0b88bfbbff.png">
-</div>
 
-###
+# 👋 Hi, I'm Lov Kumar
 
-<br clear="both">
+### AI Engineer | Generative AI | Agentic RAG | AWS | Full-Stack Development
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/lov-kumar-47b232235/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<p>
+  <a href="https://www.linkedin.com/in/lov-kumar-47b232235/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:lovkumar120169@gmail.com" >
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:lovkumar120169@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
-  <a href="https://wa.me/8709330353" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  <a href="https://lovkumar120169.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+  <a href="https://github.com/lovkumar120169">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=lovkumar120169&style=for-the-badge&color=blue" alt="Profile Views"/>
+
 </div>
 
-###
+---
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lovkumar120169.lovkumar120169&left_color=darkslategray&left_text=Visitors"  />
+## 👨‍💻 About Me
 
-###
+I'm **Lov Kumar**, an **AI Engineer with 2 years of software engineering experience**, focused on building scalable AI applications, enterprise solutions, automation, and production-ready systems.
 
-<h1 align="center">Welcome to My Profile 👋</h1>
+* 🤖 Building **Generative AI, LLM, Agentic AI & RAG** applications
+* 🧠 Working with **Machine Learning, Deep Learning, NLP & Computer Vision**
+* 🔎 Exploring **Agentic + Corrective RAG, LLM evaluation & LLMOps**
+* ☁️ Building and deploying AI applications on **AWS**
+* 💻 Full-Stack development with **Python, React.js, Node.js, Express.js & SQL**
+* 🔗 Experienced with **REST APIs, Webhooks, CI/CD & API deployment**
+* 🏢 Enterprise development using **Zoho One, Zoho CRM, Zoho Creator, Deluge & automation**
+* 💳 Integrated multiple payment solutions
+* 👥 Led and mentored a **team of 6 developers**
+* 🏫 Developed a fully functional **School Management System**
+
+---
+
+# 🛠️ Technical Skills
+
+### 💻 Languages & Development
+
+`Python` `JavaScript` `SQL` `HTML` `CSS` `Deluge`
+`React.js` `Node.js` `Express.js` `REST APIs`
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+`Machine Learning` `Deep Learning` `EDA` `Feature Engineering`
+`Generative AI` `LLMs` `NLP` `Computer Vision` `RAG`
+`PyTorch` `TensorFlow` `Scikit-learn` `Hugging Face`
+`LangChain` `LangGraph` `MLflow`
+
+### ☁️ Cloud, MLOps & LLMOps
+
+`AWS ECR` `AWS ECS` `AWS EC2` `AWS Lambda`
+`Amazon Bedrock` `Amazon S3` `AWS IAM`
+`Docker` `CI/CD` `Model Deployment` `LLMOps`
+
+### 🗄️ Databases & Data
+
+`MySQL` `MongoDB` `FAISS` `ChromaDB` `Pinecone`
+`Pandas` `NumPy`
+
+### 🔧 Development Tools
+
+`Git` `GitHub` `Postman`
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 Lumora AI — Agentic RAG & AI Research Assistant
+
+**Python · Streamlit · LangChain · Google Gemini · ChromaDB · RAG · SerpAPI**
+
+* Built **Agentic + Corrective RAG** with intelligent routing, hybrid retrieval, web search, external tools, MMR, reranking, confidence scoring, and citations.
+* Implemented **Gemini streaming, conversation-aware tool calling, contextual follow-ups**, and a Streamlit UI with knowledge-base management, Router Inspector, diagnostics, and AI chat.
+* Integrated **SerpAPI, OpenWeatherMap & Alpha Vantage** with prompt-injection protection, file validation, and session-level rate limiting.
+
+🔗 **[GitHub Repository](https://github.com/lovkumar120169)**
+
+---
+
+## ☁️ Enterprise AI Agent — AWS Deployment
+
+**Python · Streamlit · Amazon Bedrock · RAG · ECS Fargate · Docker · GitHub Actions**
+
+* Built an **Agentic AI system** with tool calling, forced RAG, Amazon Bedrock Knowledge Base, Nova Lite, and input/output Guardrails.
+* Deployed a containerized application using **AWS ECS Fargate, ECR, IAM, Secrets Manager, CloudWatch, health checks, and cross-region Bedrock architecture**.
+* Implemented **GitHub Actions CI/CD with OIDC**, automated testing/security checks, Docker builds, ECR publishing, and automated ECS deployments.
+
+🔗 **[GitHub Repository](https://github.com/lovkumar120169)**
+
+---
+
+## 🏫 School Management System
+
+* Developed a **fully functional School Management System** with end-to-end application workflows and business functionality.
+* Built as part of enterprise application development and business automation experience.
+
+---
+
+# 💼 Professional Experience
+
+### Full Stack & Zoho Developer | Team Lead
+
+**Bhavatah Soft Tech LLP**
+
+* Developed scalable enterprise applications and automation using **Zoho One, React.js, Node.js, Express.js, MongoDB & REST APIs**.
+* Developed a fully functional **School Management System**.
+* Integrated secure payment workflows using **Plaid, Dwolla & Zoho CRM**.
+* Built **custom APIs, webhooks, workflows & Deluge functions** to streamline business processes.
+* Integrated **AI-powered, prompt-driven solutions** based on business requirements.
+* Collaborated cross-functionally and **led/mentored a team of 6 developers**.
+
+---
+
+# 🏢 Enterprise & Zoho Development
+
+### Zoho Ecosystem
+
+`Zoho One` `Zoho CRM` `Zoho Creator` `Zoho Catalyst` `Deluge`
+
+### Enterprise Development
+
+`Workflow Automation` `Custom Functions` `Blueprint Automation`
+`REST APIs` `Webhooks` `Third-Party Integrations`
+`Payment Gateway Integrations` `Plaid` `Dwolla`
+
+---
+
+# ☁️ AWS & Deployment
+
+Experienced in designing and deploying production-ready applications using:
+
+`Amazon ECS Fargate` `Amazon ECR` `EC2` `Lambda`
+`Amazon Bedrock` `S3` `IAM` `Secrets Manager` `CloudWatch`
+`Docker` `GitHub Actions` `OIDC` `CI/CD`
+
+---
+
+# 🧠 AI Engineering Focus
+
+My current focus is building reliable and production-ready AI systems using:
+
+* **Agentic AI & Multi-step Agents**
+* **Agentic + Corrective RAG**
+* **LLM Applications**
+* **RAG Evaluation & Optimization**
+* **Hybrid Retrieval**
+* **Multi-query Retrieval**
+* **MMR & Reranking**
+* **Confidence Scoring**
+* **Tool Calling**
+* **Prompt Engineering**
+* **AI Guardrails**
+* **LLMOps & Model Deployment**
+* **AI Application Observability**
+
+---
+
+# 📚 Education
+
+🎓 **Bachelor of Computer Applications (BCA)**
+Bokaro Steel City College | 2019 – 2022
+
+🎓 **Certification Program in Artificial Intelligence & Machine Learning**
+IIT Patna | July 2025 – Present
+
+---
+
+# 🏆 Certifications & Recognition
+
+* 🎓 **Artificial Intelligence & Machine Learning** — IIT Patna
+* 💻 **Full Stack Web Development — MERN Stack**
+* 🏆 **Outstanding Performance Award** — Bhavatah Soft Tech LLP
+* 👥 **Team Lead & Mentor — 6 Developers**
+
+---
+
+# 📊 GitHub Stats
+
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=435&lines=Full-Stack+Web+developer....;Front-end+Developer....;MERN+Stack+Developer....;Always+curious+to+learn+new+things+!" alt="Typing SVG" /></a>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=lovkumar120169&theme=tokyonight&hide_border=true" height="190" />
+
 </div>
 
-<!-- ### -->
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+# 📈 Currently Learning
 
-### 
-<div>
-<h2 align="left">My name is Lov Kumar😎. I am from Bokaro, Jharkhand.
-  </h2>
- 
-  <br>
-  
-🔭 I’m currently preparing for placements <br><br>
- 🌱 I’m a MERN Stack Developer<br><br>
- <!-- 👯 I’m looking to collaborate on ...<br><br> -->
- 🤔 Check Out my <a href="https://drive.google.com/file/d/1uUDTpKnC9cHXUQIcxgSMhiDPDqBO0Me7/view?usp=sharing">Resume</a><br><br>
- 📫  Know more about me <a href="https://lovkumar120169.github.io/">Portfolio</a><br><br>
- 😄 All of my projects are available at
-<a href="https://github.com/lovkumar120169">My Github Repositories</a><br><br>
- 💬 Ask me about HTML, CSS, JavaScript, React, Chakra-Ui, Redux, NodeJs<br><br>
- ⚡ How to reach me <a href="lovkumar120169@gmail.com">lovkumar120169@gmail.com</a>
-</div>
+`Advanced Agentic AI` `RAG Evaluation` `LLM Evaluation`
+`AI Guardrails` `LLMOps` `MLOps` `AWS AI/ML Architecture`
 
-
-
-
-
-<h3 align="left">🛠 Languages and tools</h3>
-<br>
-<br>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
-</div>
-<br>
-
-<br>
-
-
-
-<br>
-
-###
-<h3 align="left">🔥   My Stats </h3>
-<br>
-
-
-###
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lovkumar120169&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
- <br>
-  <br>
-  <img src="https://streak-stats.demolab.com?user=lovkumar120169&locale=en&mode=weekly&theme=monokai&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
+---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/lovkumar120169/count.svg?"  />
+
+### 💡 Building AI systems that solve real-world problems.
+
+<br>
+
+<a href="https://github.com/lovkumar120169">
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
-
-
-
-
-###
-
-
-###
-<!--
-**Lov-Kumar/Lov-Kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
