@@ -209,7 +209,7 @@ IIT Patna | July 2025 – Present
 
 <br>
 
-<a href="https://github.com/lovkumar120169">
+<a href="https://github.com/lovkumar120169?tab=repositories">
   <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
