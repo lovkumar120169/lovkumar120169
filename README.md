@@ -83,7 +83,7 @@ I'm **Lov Kumar**, an **AI Engineer with 2 years of software engineering experie
 * Implemented **Gemini streaming, conversation-aware tool calling, contextual follow-ups**, and a Streamlit UI with knowledge-base management, Router Inspector, diagnostics, and AI chat.
 * Integrated **SerpAPI, OpenWeatherMap & Alpha Vantage** with prompt-injection protection, file validation, and session-level rate limiting.
 
-🔗 **[GitHub Repository](https://github.com/lovkumar120169)**
+🔗 **[GitHub Repository](https://github.com/lovkumar120169/Lumora-AI)**
 
 ---
 
@@ -95,7 +95,7 @@ I'm **Lov Kumar**, an **AI Engineer with 2 years of software engineering experie
 * Deployed a containerized application using **AWS ECS Fargate, ECR, IAM, Secrets Manager, CloudWatch, health checks, and cross-region Bedrock architecture**.
 * Implemented **GitHub Actions CI/CD with OIDC**, automated testing/security checks, Docker builds, ECR publishing, and automated ECS deployments.
 
-🔗 **[GitHub Repository](https://github.com/lovkumar120169)**
+🔗 **[GitHub Repository](https://github.com/lovkumar120169/Enterprise-AI-Agent)**
 
 ---
 
